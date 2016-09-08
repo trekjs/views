@@ -9,7 +9,7 @@ function install (options) {
 }
 
 /**
- * Render the view
+ * Stream render view
  *
  * @param {String} view
  * @param {Object} state
@@ -17,7 +17,7 @@ function install (options) {
  */
 
 function render (view, state) {
-  return require(view)
+  return require(view).stream(state)
 }
 
 module.exports = {
