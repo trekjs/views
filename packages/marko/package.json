@@ -1,0 +1,21 @@
+{
+  "name": "trek-view-marko",
+  "version": "0.0.0",
+  "description": "Marko template engine for Trek.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/trekjs/views/packages/marko",
+  "keywords": [
+    "trek",
+    "marko",
+    "template",
+    "view"
+  ],
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "marko": "3.10.0"
+  }
+}
