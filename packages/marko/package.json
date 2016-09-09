@@ -1,6 +1,6 @@
 {
   "name": "trek-view-marko",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Marko template engine for Trek.js",
   "main": "index.js",
   "scripts": {
