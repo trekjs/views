@@ -1,0 +1,22 @@
+{
+  "name": "trek-view-pug",
+  "version": "0.0.1",
+  "description": "Pug template engine for Trek.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/trekjs/views/packages/pug",
+  "keywords": [
+    "trek",
+    "pug",
+    "jade",
+    "template",
+    "view"
+  ],
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pug": "2.0.0-beta6"
+  }
+}
