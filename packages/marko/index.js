@@ -1,10 +1,15 @@
+const { resolve } = require('path')
+
+const rootPath = ''
+
 /**
  * Install marko
  *
  * @param {Object} options
  */
 
-function install (options) {
+function install (root, options) {
+  rootPath = root
   require('marko/node-require').install(options)
 }
 
@@ -17,7 +22,7 @@ function install (options) {
  */
 
 function render (view, state) {
-  return require(view).stream(state)
+  return require(resolve(rootPath, view)).stream(state)
 }
 
 module.exports = {
