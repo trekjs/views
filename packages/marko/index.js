@@ -1,6 +1,6 @@
 const { resolve } = require('path')
 
-const rootPath = ''
+let rootPath = ''
 
 /**
  * Install marko
