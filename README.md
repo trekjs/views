@@ -10,4 +10,6 @@ Template engine list for Trek.js.
 
 * [nunjucks](packages/nunjucks)
 
+* [ejs](packages/ejs)
+
 * ...

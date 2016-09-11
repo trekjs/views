@@ -1,0 +1,21 @@
+{
+  "name": "trek-view-ejs",
+  "version": "0.0.0",
+  "description": "EJS template engine for Trek.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/trekjs/views/packages/ejs",
+  "keywords": [
+    "trek",
+    "ejs",
+    "template",
+    "view"
+  ],
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "2.5.2"
+  }
+}
