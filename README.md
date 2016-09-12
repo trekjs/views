@@ -4,12 +4,12 @@ Template engine list for Trek.js.
 
 ## list
 
-* [marko](/packages/marko)
+* [marko](https://github.com/trekjs/views/tree/master/packages/marko)
 
-* [pug](/packages/pug)
+* [pug](https://github.com/trekjs/views/tree/master/packages/pug)
 
-* [nunjucks](/packages/nunjucks)
+* [nunjucks](https://github.com/trekjs/views/tree/master/packages/nunjucks)
 
-* [ejs](/packages/ejs)
+* [ejs](https://github.com/trekjs/views/tree/master/packages/ejs)
 
 * ...
